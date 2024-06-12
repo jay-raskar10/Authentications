@@ -1,5 +1,6 @@
 #Local Files
 solution.js
+.env
 
 # compiled output
 /dist
